@@ -1,4 +1,6 @@
-![Dashboard Preview](Dashboard/ClaimDenialDashboard.png)
+![Dashboard Preview](Dashboard/Policy and Regional Insights Dashboard.png)
+![Dashboard Preview](Dashboard/Risk and Customer Demographics Dashboard.png)
+
 # **Insurance Policy Analytics**
 
 ## **Project Summary**  
