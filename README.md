@@ -1,17 +1,17 @@
-![Dashboard Preview](Dashboard/Policy and Regional Insights Dashboard.png)
-![Dashboard Preview](Dashboard/Risk and Customer Demographics Dashboard.png)
+![Dashboard Preview](Dashboard/PolicyandRegionalInsightsDashboard.png)
+![Dashboard Preview](Dashboard/RiskandCustomerDemographicsDashboard.png)
 
 # **Insurance Policy Analytics**
 
 ## **Project Summary**  
-This project analyzes 1,000 synthetic insurance policy records to identify trends in premiums, claims, risk factors, and regional performance. The goal is to generate actionable insights for optimizing policy pricing, risk assessment, and resource allocation. The analysis leverages Power BI for visualization and Python for data preparation, ensuring a structured and data-driven approach.  
+This project analyzes 1,000 realistic records of insurance policies to identify trends in premiums, claims, risk factors, and regional performance. The goal is to generate actionable insights for optimizing policy pricing, risk assessment, and resource allocation. The analysis leverages Power BI for visualization and Python for data preparation, ensuring a structured and data-driven approach.  
 
 ---
 
 
 ## **Data Overview**  
 
-- **Source**: Synthetic healthcare data (2022–2024).  
+- **Source**: Kaggle: Insurance Dataset.  
 - **Key Features**:  
   - **Customer Demographics**: Age, Gender, Region
   - **Policy Details**: Policy Type (Health, Auto, Life, Home, Travel), Premium Amount (USD)
@@ -28,9 +28,9 @@ This project analyzes 1,000 synthetic insurance policy records to identify trend
 
 ## **Key Insights**  
 
-  - 1. Life,Health and Auto policies have the highest claim rates, indicating higher risk.
-  - 2. Vehicle Age < 5 years tend to have lower claim amounts, whereas older vehicles show higher claim frequencies.
-  - 3. Smokers file higher health insurance claims, emphasizing a strong correlation with medical expenses  
+  - Life,Health and Auto policies have the highest claim rates, indicating higher risk.
+  - Vehicle Age < 5 years tend to have lower claim amounts, whereas older vehicles show higher claim frequencies.
+  - Smokers file higher health insurance claims, emphasizing a strong correlation with medical expenses  
 
 ---
 
